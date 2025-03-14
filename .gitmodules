@@ -1,0 +1,6 @@
+[submodule "ai-blog-client"]
+	path = ai-blog-client
+	url = https://github.com/maurogonzalezdev/ai-blog-client.git
+[submodule "ai-blog-api"]
+	path = ai-blog-api
+	url = https://github.com/maurogonzalezdev/ai-blog-api.git
