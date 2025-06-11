@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/maurogonzalezdev/ai-blog-client.git
+[submodule "api"]
+	path = api
+	url = https://github.com/maurogonzalezdev/ai-blog-api.git
